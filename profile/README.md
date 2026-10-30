@@ -1,5 +1,9 @@
 ## Tsundere Architecture for Containers And Operating Systems
-(or TACAOS for short)
+
+## Random/General Information
+
+Tsundere Architecture for Containers And Operating Systems will be generally abbreviated to TACAOS.  
+The Organisations logo is a picture of my blahaj <3  
 
 ## What is it
 
